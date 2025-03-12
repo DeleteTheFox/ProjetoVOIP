@@ -2,6 +2,8 @@ import socket
 import pyaudio
 import numpy as np
 
+
+#Teste commit pelo linux
 # Setup for receiving audio
 CHUNK_SIZE = 1024
 FORMAT = pyaudio.paInt16
