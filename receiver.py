@@ -9,8 +9,8 @@ CHUNK_SIZE = 1024
 FORMAT = pyaudio.paInt16
 CHANNELS = 1
 RATE = 44100
-HOST = 'localhost'
-PORT = 5000
+HOST = '192.168.12.196'
+PORT = 3306
 
 # Initialize pyaudio
 p = pyaudio.PyAudio()
